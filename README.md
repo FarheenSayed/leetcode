@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/FarheenSayed/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/FarheenSayed/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/FarheenSayed/leetcode/tree/master/2058-concatenation-of-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/FarheenSayed/leetcode/tree/master/0217-contains-duplicate) |
 | [1829-maximum-units-on-a-truck](https://github.com/FarheenSayed/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/FarheenSayed/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/FarheenSayed/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/FarheenSayed/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/FarheenSayed/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Stack
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/FarheenSayed/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
