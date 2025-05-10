@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/FarheenSayed/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2562-count-ways-to-build-good-strings](https://github.com/FarheenSayed/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 <!---LeetCode Topics End-->
