@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/FarheenSayed/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/FarheenSayed/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/FarheenSayed/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/FarheenSayed/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/FarheenSayed/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/FarheenSayed/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/FarheenSayed/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/FarheenSayed/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Graph
 |  |
 | ------- |
