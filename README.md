@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/FarheenSayed/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/FarheenSayed/leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/FarheenSayed/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/FarheenSayed/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1603-running-sum-of-1d-array](https://github.com/FarheenSayed/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Backtracking
 |  |
 | ------- |
