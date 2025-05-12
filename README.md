@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/FarheenSayed/leetcode/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/FarheenSayed/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/FarheenSayed/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/FarheenSayed/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/FarheenSayed/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FarheenSayed/leetcode/tree/master/0342-power-of-four) |
@@ -193,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/FarheenSayed/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
