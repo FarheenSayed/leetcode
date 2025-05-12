@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/FarheenSayed/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/FarheenSayed/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
@@ -173,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/2868-continuous-subarrays) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
