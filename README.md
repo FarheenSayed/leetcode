@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/FarheenSayed/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/FarheenSayed/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/FarheenSayed/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/FarheenSayed/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/FarheenSayed/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/FarheenSayed/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/FarheenSayed/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/FarheenSayed/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/FarheenSayed/leetcode/tree/master/1791-richest-customer-wealth) |
 ## String
