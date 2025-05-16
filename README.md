@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/FarheenSayed/leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/FarheenSayed/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/FarheenSayed/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/FarheenSayed/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/FarheenSayed/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/FarheenSayed/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/FarheenSayed/leetcode/tree/master/2058-concatenation-of-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/FarheenSayed/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/FarheenSayed/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FarheenSayed/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/FarheenSayed/leetcode/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
