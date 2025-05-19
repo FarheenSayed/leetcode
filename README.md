@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/FarheenSayed/leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/FarheenSayed/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0898-transpose-matrix](https://github.com/FarheenSayed/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/FarheenSayed/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/FarheenSayed/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/FarheenSayed/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/FarheenSayed/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/FarheenSayed/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FarheenSayed/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/FarheenSayed/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/FarheenSayed/leetcode/tree/master/2058-concatenation-of-array) |
