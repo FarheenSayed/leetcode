@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FarheenSayed/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/FarheenSayed/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FarheenSayed/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2868-continuous-subarrays](https://github.com/FarheenSayed/leetcode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/FarheenSayed/leetcode/tree/master/0861-flipping-an-image) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FarheenSayed/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
