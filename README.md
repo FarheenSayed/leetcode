@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarheenSayed/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/FarheenSayed/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/FarheenSayed/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/FarheenSayed/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarheenSayed/leetcode/tree/master/0020-valid-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/FarheenSayed/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/FarheenSayed/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Bit Manipulation
